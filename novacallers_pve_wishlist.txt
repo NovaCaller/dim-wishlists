@@ -1,5 +1,5 @@
-title:NovaCaller's Season 21 PvE Wishlist
-description:this wishlist only contains rolls that are actually worth getting or are at least unique.
+title:NovaCaller's Elitist PvE Wishlist
+description:bing chilling
 
 // Positive Outlook (pve)
 //notes: honestly just get age-old bond instead
